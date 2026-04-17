@@ -1,0 +1,14 @@
+2026-04-17T17:29:29+00:00 DEBUG #8366 - [New Request] GET /wp-admin/plugins.php
+2026-04-17T17:29:29+00:00 DEBUG #8366 - Webhook lock acquired for 'unregister'.
+2026-04-17T17:29:29+00:00 DEBUG #8366 - Webhook operation 'unregister' started.
+2026-04-17T17:29:29+00:00 DEBUG #8366 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+2026-04-17T17:29:29+00:00 ERROR #8366 - Failed to delete webhooks: [Error] Not Found
+2026-04-17T17:29:29+00:00 INFO #8366 - Webhooks deleted.
+2026-04-17T17:29:29+00:00 DEBUG #8366 - Webhook lock released for 'unregister'.
