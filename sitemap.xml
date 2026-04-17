@@ -2,57 +2,57 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/Assignment-4/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
+            http://localhost:8000/Assignment-4/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/contact-page/
+            http://localhost:8000/Assignment-4/contact-page/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/shop/
+            http://localhost:8000/Assignment-4/shop/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/cart/
+            http://localhost:8000/Assignment-4/cart/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/checkout/
+            http://localhost:8000/Assignment-4/checkout/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/my-account/
+            http://localhost:8000/Assignment-4/my-account/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/product/simple-practice/
+            http://localhost:8000/Assignment-4/product/simple-practice/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/product/skating-practice/
+            http://localhost:8000/Assignment-4/product/skating-practice/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/product-category/uncategorized/
+            http://localhost:8000/Assignment-4/product-category/uncategorized/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/author/adrian-k/
+            http://localhost:8000/Assignment-4/author/adrian-k/
         </loc>
     </url>
 </urlset>
