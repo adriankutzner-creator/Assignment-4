@@ -6,3 +6,15 @@ Template:       twentyseventeen
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+/* Code to italicize the main site title on the homepage */
+.site-branding .site-title,
+.site-branding .site-title a {
+    font-style: italic;
+}
+
+/* Enlarges the and color the assignment text line */
+.site-branding .site-description {
+    font-size: 13px; 
+    color: #c1c1c1; /* A clean, readable light-grey tone */
+}
