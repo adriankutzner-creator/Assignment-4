@@ -9557,3 +9557,14 @@ Stack trace:
 #10 {main}
   thrown in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog-old/templates.php on line 45
 [19-Apr-2026 04:43:08 UTC] PHP Fatal error:  Out of memory (allocated 37748736 bytes) (tried to allocate 45056 bytes) in /workspaces/Assignment-4/.wordpress/wp-admin/includes/admin.php on line 94
+[19-Apr-2026 05:26:31 UTC] PHP Fatal error:  Out of memory (allocated 37748736 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 151
+[19-Apr-2026 05:26:31 UTC] PHP Fatal error:  Out of memory (allocated 37748736 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-includes/sodium_compat/src/Core/Util.php on line 12
+[19-Apr-2026 05:26:41 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 151
+[19-Apr-2026 05:26:51 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 151
+[19-Apr-2026 05:27:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 151
+[19-Apr-2026 05:27:11 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/extensions.php on line 1023
+[19-Apr-2026 05:27:11 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 131072 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/languages/admin-en_CA.l10n.php on line 2
+[19-Apr-2026 05:27:11 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 151
+[19-Apr-2026 05:27:40 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/extensions.php on line 1017
+[19-Apr-2026 05:27:40 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 131072 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/languages/admin-en_CA.l10n.php on line 2
+[19-Apr-2026 05:45:20 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/product-filter.php on line 506
