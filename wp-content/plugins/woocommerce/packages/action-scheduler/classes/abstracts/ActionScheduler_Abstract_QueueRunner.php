@@ -331,7 +331,7 @@ abstract class ActionScheduler_Abstract_QueueRunner extends ActionScheduler_Abst
 		if ( function_exists( 'ini_get' ) ) {
 			$memory_limit = ini_get( 'memory_limit' );
 		} else {
-			$memory_limit = '128M'; // Sensible default, and minimum required by WooCommerce.
+			$memory_limit = '512M'; // Sensible default, and minimum required by WooCommerce.
 		}
 
 		if ( ! $memory_limit || -1 === $memory_limit || '-1' === $memory_limit ) {
