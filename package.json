@@ -6,7 +6,5 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build"
+    "build": "wp-pwa build && cp -r dist/Assignment-4/* dist/ && rm -rf dist/Assignment-4"
   },
-  "homepage": "https://adriankutzner-creator.github.io/Assignment-4/"
-}
